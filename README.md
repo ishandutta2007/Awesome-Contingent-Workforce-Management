@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Contingent-Workforce-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contingent-Workforce-Management?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Contingent-Workforce-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Contingent-Workforce-Management?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contingent-Workforce-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Contingent-Workforce-Management?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contingent-Workforce-Management/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Contingent-Workforce-Management?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Contingent-Workforce-Management/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -69,7 +69,7 @@ The sector demonstrates a distinctive structural market dynamic:
 
 ### Top Open-Source Workforce & Vendor Platforms
 
-All open-source repositories below are ordered in **descending order by GitHub star count**:
+All open-source repositories below are ordered in **descending order by GitHub Stars_Count**:
 
 - [![Stars](https://img.shields.io/github/stars/frappe/erpnext?style=social&color=white)](https://github.com/frappe/erpnext/stargazers) **[ERPNext](https://github.com/frappe/erpnext)** — **The world's leading open-source ERP system** (GPL-3.0) with comprehensive Supplier/Vendor Management, Purchase Orders, Subcontracting workflows, Timesheets, Contractor Billing, and Project Accounting. Includes a full supplier portal for self-service invoice uploads and quotation management. **Tech stack**: Python (Frappe Framework), MariaDB, JavaScript, Redis. **Best for**: organizations seeking an end-to-end self-hosted platform to orchestrate supplier lifecycles, contractor purchase orders, and timesheets.
 
@@ -121,7 +121,7 @@ Contributions from workforce procurement specialists, software engineers, and ex
 3. 📝 **Add or edit entries in `README.md`** following the established format:
    - Include platform name, live URL, concise summary, licensing info (for open-source), and key capabilities.
    - For SaaS additions, provide concrete pricing starting points and free tier/trial boundaries in the table.
-   - For open-source repos, include the GitHub stars social badge linking to the repository's stargazers page.
+   - For open-source repos, include the GitHub_Stars social badge linking to the repository's stargazers page.
 4. 🚀 **Submit a Pull Request** with a brief rationale for the addition.
 
 🌟 **Star the repository** if you find this directory valuable for your organization's workforce strategy!
