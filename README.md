@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global Contingent Workforce Management (CWM) software and Vendor Management System (VMS) market is estimated at approximately **$1.0B to $1.3B** in pure software spend (part of an extended non-employee labor and MSP ecosystem managing over **$180B to $200B+** in gross spend worldwide). The sector exhibits a bifurcated market dynamic: the core enterprise VMS software tier is **moderately concentrated** (dominated by an oligopoly of established platforms including SAP Fieldglass, Beeline, Workday/VNDLY, Magnit, and Coupa), while the broader ecosystem of staffing suppliers, specialized direct-sourcing tools, and regional compliance service providers remains **highly fragmented**.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Beeline](https://www.beeline.com/)**
-
-  **Enterprise VMS and extended workforce platform** with two editions: **Enterprise VMS** for large global programs and **Professional VMS** for companies with 50+ external workers. Covers SOW management, time and expense billing, and owns MBO Partners for agent-of-record and EOR services. Cited customers include Amazon and The Home Depot . **Pricing**: Custom quote only; no published pricing, trial, or self-serve signup. Implementation depth varies by plan and materially affects total cost . **Free tier**: None; demo-led sales process. **Best for**: enterprises with 50+ contingent workers and complex supplier networks requiring governance, compliance visibility, and SOW management.
-
-
-
-- **[SAP Fieldglass](https://www.fieldglass.com/)**
-
-  **Enterprise services procurement and external workforce management** platform. Separately licensed modules for **Contingent Workforce Management (CWM)** and **Services Procurement (SOW)** — a common source of compliance exposure when SOW usage expands without corresponding license expansion . **Pricing**: Custom quote; metrics include peak active worker count and SOW spend. Discounts of 40–50% achievable when bundled with broader SAP relationships exceeding €5M annually . **Free tier**: None. **Best for**: large SAP-centric enterprises needing deep integration with S/4HANA and SuccessFactors, with capacity for active license governance.
-
-
-
-- **[Magnit](https://magnitglobal.com/)**
-
-  **Integrated workforce management platform** covering VMS, MSP, EOR, Services Procurement, and Direct Sourcing. Named a VMS Leader in Everest Group PEAK Matrix for five consecutive years . **Pricing**: Quote-only; scoped to program complexity and worker volume. **Free tier**: None. **Best for**: enterprises wanting a single partner for contingent workforce strategy spanning technology (VMS) and services (MSP, EOR).
-
-
-
-- **[Coupa Contingent Workforce](https://www.coupa.com/)**
-
-  **Contingent workforce management within the Coupa business spend management suite**. **Pricing**: Quote-only; bundled with Coupa platform. **Free tier**: None. **Best for**: organizations already on Coupa wanting contingent labor spend visibility integrated with procurement and AP.
-
-
-
-- **[VNDLY (Workday)](https://www.workday.com/)**
-
-  **Cloud VMS acquired by Workday** for managing extended workforce including contractors, SOW engagements, and gig workers. **Pricing**: Quote-only; integrated with Workday HCM and financials. **Free tier**: None. **Best for**: Workday customers wanting contingent workforce management unified with core HCM and procurement.
-
-
-
-- **[VectorVMS](https://www.vectorvms.com/)**
-
-  **Vendor management system** for contingent labor programs. **Pricing**: Quote-only. **Free tier**: None. **Best for**: mid-market to enterprise organizations seeking a dedicated VMS without full MSP outsourcing.
-
-
-
-- **[Utmost](https://www.utmost.com/)**
-
-  **Extended workforce management** platform focused on visibility and compliance for non-employee workers. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations prioritizing worker classification compliance and extended workforce analytics.
-
-
-
-- **[Flextrack](https://www.flextrack.com/)**
-
-  **Talent pool and contingent workforce management** platform. **Pricing**: Quote-only. **Free tier**: None. **Best for**: organizations building and engaging private talent pools for contingent roles.
-
-
-
-- **[Upwork Enterprise](https://www.upwork.com/enterprise)**
-
-  **Freelance talent marketplace with enterprise suite** for managing contract talent at scale. **Pricing**: Platform fees plus worker rates; enterprise pricing quote-based. **Free tier**: Freelancer accounts free; enterprise suite paid. **Best for**: organizations wanting access to a large freelance marketplace with enterprise governance and payment workflows.
-
-
-
-- **[Workday Contingent Workforce Management](https://www.workday.com/)**
-
-  **Contingent workforce module** within Workday HCM and Financials. **Pricing**: Quote-only; bundled with Workday suite. **Free tier**: None. **Best for**: Workday customers wanting contingent worker records, onboarding, and spend tracking within the Workday ecosystem.
-
-
+| Platform | Company Size (Revenue / Valuation) | Pricing (Specific Starting Tiers) | Free Tier / Trial Limits | Key Capabilities & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[SAP Fieldglass](https://www.fieldglass.com/)** | **~$265B Market Cap** (~€36.8B / $42.4B annual revenue) | Tiered spend/volume pricing starting at **0.7% to 0.9% of managed contingent labor spend**; custom enterprise licensing for dual CWM and Services Procurement (SOW) modules. | **No public self-serve free trial**; access restricted to guided sales demos, interactive product tours, or tenant sandboxes via SAP PartnerEdge. | Enterprise services procurement & contingent workforce management; best for SAP-centric organizations deeply integrating S/4HANA & SuccessFactors. |
+| **[Workday Contingent Workforce Management](https://www.workday.com/)** | **~$50B Market Cap** ($9.552B FY2026 revenue) | Module pricing starting at **~$35 to $45 PEPM** (per employee/contingent worker per month) at enterprise volume, or baseline core suite contracts starting at **~$100,000/year**. | **No self-serve free trial** for core HCM/CWM; click-through interactive guided workflows available on demand; 30-day trials offered solely for Workday Adaptive Planning. | Native contingent workforce tracking, worker lifecycle, and onboarding integrated directly within the Workday HCM & Financials suite. |
+| **[VNDLY (Workday)](https://www.workday.com/)** | **~$50B Parent Market Cap** (Acquired for $510M by Workday; $9.552B parent revenue) | Tiered pricing starting at **$15 to $45 per worker/month** or **0.5% to 2.5% of managed contingent spend** based on total program volume. | **No self-serve free trial**; evaluation conducted via structured sales-led sandboxes and guided proof-of-concept demos. | Cloud-native VMS for managing contractors, SOW engagements, and gig workers; best for enterprises seeking unified extended workforce and HCM orchestration. |
+| **[Coupa Contingent Workforce](https://www.coupa.com/)** | **$8.0B Valuation** (Acquired by Thoma Bravo; ~$818M annual revenue) | Contingent workforce / services procurement module contracts starting at **~$15,000 to $50,000/year** for basic entry-level BSM deployments. | **30-day free trial** available exclusively for suppliers on the Coupa Supplier Portal (CSP Coupa Advanced); buyer enterprise VMS requires scheduled custom sales demo. | Comprehensive contingent labor and SOW spend management unified with source-to-pay and business spend management (BSM). |
+| **[Upwork Enterprise](https://www.upwork.com/enterprise)** | **~$1.2B Market Cap** ($787.8M 2025 revenue) | **Basic Client Tier: Free** platform access + 5% client service fee on payments; **Business Plus: 10% fee**; **Enterprise: Custom annual contract** based on compliance/EOR scope + negotiated fee markup. | **Permanent free plan** on Upwork Basic ($0 recurring platform fee, pay-per-contract with 5% marketplace fee); Enterprise tier offers no self-serve free trial. | Global freelance and contractor sourcing with enterprise-grade classification compliance, consolidated invoicing, and talent pool curation. |
+| **[Magnit](https://magnitglobal.com/)** | **~$500M - $1.0B+ Revenue** (Majority owned by EQT Private Equity; backed by $1.16B+ credit facilities) | Custom spend-based volume fee (typically **1.0% to 2.5% of total contingent labor spend** or tiered worker volume fees). | **No self-serve free trial**; access is exclusively sales-led via customized product discovery demos. | Full-spectrum extended workforce platform combining enterprise VMS, MSP, Direct Sourcing, and EOR/compliance operations. |
+| **[Beeline](https://www.beeline.com/)** | **~$150M - $200M Revenue** (Majority owned by Stone Point Capital; handles $68B+ contingent spend) | Enterprise VMS contracts starting at **~$100,000/year** (or supplier connection plans via Beeline Supplier Network starting at **$2,500/year**). | **30-day free trial** available exclusively for staffing agencies on the Beeline Supplier Network (BSN); core buyer VMS has no free trial and is demo-only. | Extended workforce and VMS leader with SOW management, direct sourcing, and MBO Partners integration; best for organizations managing 50+ external workers. |
+| **[VectorVMS](https://www.vectorvms.com/)** | **$50M Valuation** (Acquired by PIXID Group in 2024; $11.4M annual revenue) | Enterprise mid-market subscriptions starting from **custom quote tied to managed spend / headcount tiers** (historical mid-market baselines ~**$12,000 to $25,000/year**). | **No self-serve free trial**; prospective clients can request a personalized live interactive demo. | Dedicated, configurable vendor management system for mid-market to enterprise programs without mandatory MSP overhead. |
+| **[Utmost](https://www.utmost.com/)** | **~$33M Total VC Funding** (Acquired by Beeline in 2022; backed by Greylock and Workday Ventures) | Custom usage-based pricing scaled by external worker headcount under management (now bundled into Beeline extended workforce solutions). | **No self-serve free trial**; evaluation is available via tailored demos through Beeline. | Extended workforce system emphasizing worker classification, front-door contractor onboarding, and extended workforce analytics. |
+| **[Flextrack](https://www.flextrack.com/)** | **$2B+ Managed Spend** (Subsidiary of GSGroup; seed/venture backed by Accelerace) | Enterprise licensing based on managed spend percentage (typically **0.5% to 1.5%**) or custom Salesforce platform user licensing. | **No self-serve free trial**; custom enterprise sandbox demonstrations offered upon consultation. | Salesforce-native vendor management system with talent pooling, direct sourcing, and workflow automation. |
 
 ## Open-Source GitHub Projects
 
